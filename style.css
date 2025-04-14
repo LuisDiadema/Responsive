@@ -90,3 +90,32 @@ h2 {
     background-color: #F84646;
     color: #fff;
 }
+
+.articleContainer {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.articleContainer:nth-child(even) {
+    margin-top: 5rem;
+    flex-direction: row-reverse;
+}
+
+    
+.articleDetails {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+    margin: 0 2.5rem 0 0;
+    justify-content: space;
+}
+    
+.articleDetails > button {
+    font-size: 1rem;
+}
+
+.articleContainer:nth-child(even) > .articleDetails {
+    margin: 0 0 0 2.5rem;
+}
