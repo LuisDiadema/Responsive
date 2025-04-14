@@ -119,3 +119,36 @@ h2 {
 .articleContainer:nth-child(even) > .articleDetails {
     margin: 0 0 0 2.5rem;
 }
+
+.footerList {
+    display: flex;
+    text-align: left;
+}
+
+.footerList > ul > li{
+    list-style: none;
+    margin-bottom: 1rem;
+    
+}
+
+.footerList > ul > li{
+    list-style: none;
+    margin-bottom: 1rem;
+
+}
+
+.footerList > ul > li:last-child {
+    margin-bottom: 0;
+}
+
+.footerList > ul > li:first-child {
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+.footerCopyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 6.5rem;
+}
