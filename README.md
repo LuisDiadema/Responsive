@@ -15,3 +15,7 @@ Curso de engenharia de software da Escola DNC - *Cursando*
 6. Animações básicas
 
 7. Indrodução ao FlexBox
+
+Viewport e Meta Tag
+
+Media Queries
