@@ -308,7 +308,7 @@ h3 {
     }
     
     h2 {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
     }
 
     #presentation-container {
@@ -318,7 +318,7 @@ h3 {
     }
 
     .gridContainer {
-        grid-template-columns: (1, 1fr);
+        grid-template-columns: 1fr;
     }
 
     #qualities {
@@ -346,7 +346,7 @@ h3 {
     .articleDetails {
         text-align: center;
         align-items: normal;
-        margin: 2rem 0 0 0;
+        margin: 0 0 2rem;
     }
 
     .articleContainer:nth-child(even) > .articleDetails{
