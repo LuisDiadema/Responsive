@@ -16,6 +16,14 @@ Curso de engenharia de software da Escola DNC - *Cursando*
 
 7. Indrodução ao FlexBox
 
-Viewport e Meta Tag
+8. Inverter elementos ultilizando FlexBox
 
-Media Queries
+9. Indrodução ao Grid Layout
+
+10. Posicionamento avançado com Grid Layout
+
+11. Indrodução à responsividade e ferramenta para desenvolvimento responsivo
+
+12. Viewport metatag
+
+13. Media Queries
