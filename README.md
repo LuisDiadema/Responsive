@@ -1,5 +1,5 @@
 ## Parte 2 - Segundo Modulo
-Curso de engenharia de software da Escola DNC - *Cursando*
+Curso de engenharia de software da Escola DNC - *Concluido*
 
 ## Neste Modulo Foi Ensinado:
 1. Introdução ao Figma e Prototipagem.
